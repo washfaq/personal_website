@@ -26,7 +26,7 @@ name: Waseem Ashfaq
 #  url: https://sanlab.uoregon.edu
 #- name: Center for Translational Neuroscience
 #  url: https://ctn.uoregon.edu/profile/bcullen
-#role: Agricultural Researcher
+role: Agricultural Researcher
 social:
 - icon: envelope
   icon_pack: fas
