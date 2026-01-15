@@ -16,11 +16,10 @@ education:
 
 email: "waseemishfaq@gmail.com"
 interests:
-- R & R Markdown
+- Agronomy
+- Crop science and grain production
 - Data science education
-- Health behavior change
-- Precision medicine
-- Translational neuroscience
+- Farming systems research
 name: Waseem Ashfaq
 # organizations:
 #- name: Social and Affective Neuroscience Lab
