@@ -22,7 +22,7 @@ interests:
 - Farming systems research
 name: Waseem Ashfaq
 # organizations:
-#- name: Social and Affective Neuroscience Lab
+- name: The University of Melbourne
 #  url: https://sanlab.uoregon.edu
 #- name: Center for Translational Neuroscience
 #  url: https://ctn.uoregon.edu/profile/bcullen
