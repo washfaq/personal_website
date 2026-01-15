@@ -22,22 +22,22 @@ interests:
 - Precision medicine
 - Translational neuroscience
 name: Waseem Ashfaq
-organizations:
-- name: Social and Affective Neuroscience Lab
-  url: https://sanlab.uoregon.edu
-- name: Center for Translational Neuroscience
-  url: https://ctn.uoregon.edu/profile/bcullen
-role: Doctoral Student | NSF GRFP Fellow
+# organizations:
+#- name: Social and Affective Neuroscience Lab
+#  url: https://sanlab.uoregon.edu
+#- name: Center for Translational Neuroscience
+#  url: https://ctn.uoregon.edu/profile/bcullen
+#role: Agricultural Researcher
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:bcullen@uoregon.edu
+  link: mailto:waseemishfaq@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://x.com/Waseem_Ashfaq
 - icon: github
   icon_pack: fab
-  link: https://github.com/brendanhcullen
+  link: https://github.com/washfaq
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/waseem-ashfaq-4390a343/
