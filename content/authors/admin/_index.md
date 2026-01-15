@@ -21,7 +21,7 @@ interests:
 - Data science education
 - Farming systems research
 name: Waseem Ashfaq
-# organizations:
+ organizations:
 - name: The University of Melbourne
 #  url: https://sanlab.uoregon.edu
 #- name: Center for Translational Neuroscience
