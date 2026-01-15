@@ -4,26 +4,24 @@ authors:
 bio: Psychology PhD student and aspiring data scientist studying precision medicine approaches to health behavior change.
 education:
   courses:
-  - course: PhD - Psychology 
-    institution: University of Oregon
-    year: expected 2022
-  - course: Data Science Specialization in Educational Leadership
-    institution: University of Oregon
-    year: 2021  
-  - course: MS - Psychology 
-    institution: University of Oregon
-    year: 2019
-  - course: BA - Neuroscience
-    institution: Middlebury College
-    year: 2015
-email: "bcullen@uoregon.edu"
+  - course: PhD - Agricultural Sciences
+    institution: University of Melbourne
+    year: 2022
+  - course: MSc - Plant Breeding and Genetics
+    institution: University of Agriculture Faisalabad
+    year: 2011
+  - course: BSc - Agriculture
+    institution: University of Agriculture Faisalabad
+    year: 2009
+
+email: "waseemishfaq@gmail.com"
 interests:
 - R & R Markdown
 - Data science education
 - Health behavior change
 - Precision medicine
 - Translational neuroscience
-name: Brendan Cullen
+name: Waseem Ashfaq
 organizations:
 - name: Social and Affective Neuroscience Lab
   url: https://sanlab.uoregon.edu
@@ -36,28 +34,31 @@ social:
   link: mailto:bcullen@uoregon.edu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/_bcullen
+  link: https://x.com/Waseem_Ashfaq
 - icon: github
   icon_pack: fab
   link: https://github.com/brendanhcullen
 - icon: linkedin-in
   icon_pack: fab
-  link: https://www.linkedin.com/in/bcull/
+  link: https://www.linkedin.com/in/waseem-ashfaq-4390a343/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=02RYe4UAAAAJ&hl=en
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/npcuz
+  link: https://scholar.google.com/citations?user=C6-BQwYAAAAJ&hl=en
+
 
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
+Hello!
 
-I am a PhD student and [NSF GRFP Fellow](https://www.nsfgrfp.org/resources/about_grfp) in the Department of Psychology at the University of Oregon. My work in the [Social and Affective Neuroscience Lab](https://sanlab.uoregon.edu/) focuses on individual differences in health behavior change and predictive modelling of health outcomes in an effort to advance a precision medicine framework for behavioral health.
+I’m glad you stopped by.
 
-As part of my doctoral training, I am pursuing a [Data Science Specialization](https://education.uoregon.edu/data-science-specialization-educational-leadership) focused on reproducible data analysis, data visualization, functional programming, and machine learning. In addition, I have served as a [lab instructor](/courses/) for both undergraduate statistics and a graduate-level [Data Analysis Sequence](https://github.com/uopsych) in the Department of Psychology. 
+I am an agricultural researcher working across cereal physiology, agronomy, and farming systems research, with a strong focus on improving the profitability and sustainability of dryland farming systems.
 
-I am also an [RStudio Certified Instructor](https://education.rstudio.com/trainers/people/cullen+brendan/) in the [tidyverse](https://www.tidyverse.org/) -- please feel free to [reach out](mailto:bcullen@uoregon.edu) if you're interested in having me lead a workshop or training for you. You can see an example of my teaching materials [here](https://uopsych-r-bootcamp-2020.netlify.app/).
+I currently work as a Research Scientist with the Department of Primary Industries and Regional Development (DPIRD), where I focus on agronomic and systems innovations to enhance farm profitability in the low- and medium-rainfall zones of Western Australia. My work is driven by practical impact - helping farmers adapt to climate variability while maintaining productive, resilient systems.
+
+Before joining DPIRD, I was a Postdoctoral Research Fellow in Crop Production at the University of Melbourne, where I contributed to redesigning broadacre farming systems in Southeast Victoria. During this time, I also worked on integrating dual-purpose winter wheat into mixed farming systems to help bridge the winter feed gap. As part of my PhD research, I also collaborated with CIMMYT and spent time at the Norman E. Borlaug research station in Ciudad Obregón, Mexico.
+
+I hold a PhD in Agricultural Sciences from the University of Melbourne and am passionate about translating research into real-world outcomes for dryland agriculture.
