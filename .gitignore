@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+public/
+.DS_Store
+.secrets
+Thumbs.db
+public/
+resources/
