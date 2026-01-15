@@ -23,7 +23,7 @@ interests:
 name: Waseem Ashfaq
  organizations:
 - name: The University of Melbourne
-#  url: https://sanlab.uoregon.edu
+  url: https://staff.unimelb.edu.au/
 #- name: Center for Translational Neuroscience
 #  url: https://ctn.uoregon.edu/profile/bcullen
 role: Agricultural Researcher
