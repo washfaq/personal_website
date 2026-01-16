@@ -53,43 +53,6 @@
   url = "/gallery/monsanto/"
   weight = 30.1
 
-  [[main]]
-  name = "Int. 2012"
-  parent = "monsanto photos"
-  url = "/gallery/monsanto/2012/"
-  weight = 30.11
-
-[[main]]
-  name = "Int. 2014"
-  parent = "monsanto"
-  url = "/gallery/monsanto/2014/"
-  weight = 30.12
-
-[[main]]
-  name = "Int. 2015"
-  parent = "monsanto"
-  url = "/gallery/monsanto/2015/"
-  weight = 30.13
-
-[[main]]
-  name = "Int. 2016"
-  parent = "monsanto"
-  url = "/gallery/monsanto/2016/"
-  weight = 30.14
-
-[[main]]
-  name = "Int. 2017"
-  parent = "monsanto"
-  url = "/gallery/monsanto/2017/"
-  weight = 30.15
-
-[[main]]
-  name = "Field"
-  parent = "monsanto"
-  url = "/gallery/monsanto/field/"
-  weight = 30.16
-
-
 [[main]]
   name = "PhD Photos <i class='fas fa-graduation-cap'></i>"
   parent = "gallery"
