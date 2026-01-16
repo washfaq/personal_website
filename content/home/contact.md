@@ -2,7 +2,7 @@
 widget: contact
 title: Contact
 active: true
-email: "your_email_here"
+email: "waseemishfaq@gmail.com"
 form:
   name: "contact"
   netlify: true
