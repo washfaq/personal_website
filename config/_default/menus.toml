@@ -48,7 +48,7 @@
   weight = 30
 
 [[main]]
-  name = "Monsanto Photos <i class='fas fa-seedling'></i>"
+  name = "Monsanto Photos <i class='fas fa-leaf'></i>"
   parent = "gallery"
   url = "/gallery/monsanto/"
   weight = 30.1
