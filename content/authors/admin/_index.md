@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Psychology PhD student and aspiring data scientist studying precision medicine approaches to health behavior change.
+bio: Farming systems scientist and aspiring data science student, advancing profitable and sustainable dryland farming in Australia.
 education:
   courses:
   - course: PhD - Agricultural Sciences
