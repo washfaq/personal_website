@@ -21,10 +21,10 @@ interests:
 - Data science education
 - Farming systems research
 name: Waseem Ashfaq
- organizations:
+organizations:
 - name: The University of Melbourne
   url: https://staff.unimelb.edu.au/
-- name: Center for Translational Neuroscience
+- name: 
   url: 
 role: Agricultural Researcher
 social:
