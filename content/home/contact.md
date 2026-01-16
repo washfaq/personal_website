@@ -1,28 +1,29 @@
-<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-  
-  <!-- required hidden input -->
+<form name="contact"
+      method="POST"
+      data-netlify="true"
+      netlify-honeypot="bot-field">
+
   <input type="hidden" name="form-name" value="contact">
 
-  <!-- spam protection -->
   <p hidden>
     <label>Don’t fill this out: <input name="bot-field"></label>
   </p>
 
   <p>
-    <label>Your Name<br>
+    <label>Name<br>
       <input type="text" name="name" required>
     </label>
   </p>
 
   <p>
-    <label>Your Email<br>
+    <label>Email<br>
       <input type="email" name="email" required>
     </label>
   </p>
 
   <p>
     <label>Message<br>
-      <textarea name="message" rows="6" required></textarea>
+      <textarea name="message" required></textarea>
     </label>
   </p>
 
