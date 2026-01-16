@@ -1,21 +1,15 @@
-
 <form name="contact" method="POST" data-netlify="true">
   <input type="hidden" name="form-name" value="contact">
 
   <p>
-    <label>Your Name<br>
-    <input type="text" name="name" required></label>
+    <label>Name <input type="text" name="name" required></label>
   </p>
 
   <p>
-    <label>Your Email<br>
-    <input type="email" name="email" required></label>
+    <label>Email <input type="email" name="email" required></label>
   </p>
 
   <p>
-    <label>Your Message<br>
-    <textarea name="message" required></textarea></label>
+    <button type="submit">Send</button>
   </p>
-
-  <p><button type="submit">Send</button></p>
 </form>
