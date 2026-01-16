@@ -24,8 +24,8 @@ name: Waseem Ashfaq
  organizations:
 - name: The University of Melbourne
   url: https://staff.unimelb.edu.au/
-#- name: Center for Translational Neuroscience
-#  url: https://ctn.uoregon.edu/profile/bcullen
+- name: Center for Translational Neuroscience
+  url: 
 role: Agricultural Researcher
 social:
 - icon: envelope
