@@ -50,6 +50,7 @@
 [[main]] 
  name = "Monsanto Photos <i class='fas fa-leaf'></i>" 
  parent = "gallery" 
+ identifier = "monsanto-photos"
  url = "/gallery/monsanto/" 
  weight = 30.1
 
