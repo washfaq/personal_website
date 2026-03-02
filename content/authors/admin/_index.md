@@ -50,7 +50,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello!
+Hello! Hello!
 
 I’m glad you stopped by.
 
