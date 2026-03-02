@@ -1,14 +1,12 @@
 +++
-title = "Monsanto Photo"
-draft = false
-widget = "blank"      # Page-builder blank widget
-headless = true       # Section page
-active = true         # Activate this widget
-weight = 66           # Section order
+# Gallery section using the Blank widget and Gallery element (shortcode).
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
+weight = 66  # Order that this section will appear.
+
+title = "Gallery"
+subtitle = ""
 +++
-
-![Monsanto Photo](/assets/images/myphoto.JPG)
-
-**Caption:** Monsanto Thomasboro Corn Breeding Station, IL US Dec 2014
 
 {{< gallery >}}
