@@ -57,7 +57,7 @@
 [[main]]
   name = "My Photo"
   parent = "monsanto-photos"
-  url = "/gallery/monsanto/myphoto.JPG"
+  url = "/assets/images/myphoto.JPG"
   weight = 30.11
 
 [[main]]
